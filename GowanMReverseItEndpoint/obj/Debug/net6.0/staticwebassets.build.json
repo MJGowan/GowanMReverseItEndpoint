@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oEvnjU96daYGU6SnqjoUYoVRkeq2gvQ3azACAOYJyB0=",
+  "Source": "GowanMReverseItEndpoint",
+  "BasePath": "_content/GowanMReverseItEndpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

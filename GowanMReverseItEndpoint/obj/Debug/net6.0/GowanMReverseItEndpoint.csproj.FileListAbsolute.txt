@@ -1,0 +1,54 @@
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\bin\Debug\net6.0\appsettings.json
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\bin\Debug\net6.0\GowanMReverseItEndpoint.exe
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\bin\Debug\net6.0\GowanMReverseItEndpoint.deps.json
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\bin\Debug\net6.0\GowanMReverseItEndpoint.runtimeconfig.json
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\bin\Debug\net6.0\GowanMReverseItEndpoint.dll
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\bin\Debug\net6.0\GowanMReverseItEndpoint.pdb
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.csproj.AssemblyReference.cache
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.AssemblyInfoInputs.cache
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.AssemblyInfo.cs
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.csproj.CoreCompileInputs.cache
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\obj\Debug\net6.0\scopedcss\bundle\GowanMReverseItEndpoint.styles.css
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.csproj.CopyComplete
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.dll
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\obj\Debug\net6.0\refint\GowanMReverseItEndpoint.dll
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.pdb
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.genruntimeconfig.cache
+C:\Users\petal\Desktop\GowanMReverseItEndpoint\obj\Debug\net6.0\ref\GowanMReverseItEndpoint.dll
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\bin\Debug\net6.0\appsettings.json
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\bin\Debug\net6.0\GowanMReverseItEndpoint.exe
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\bin\Debug\net6.0\GowanMReverseItEndpoint.deps.json
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\bin\Debug\net6.0\GowanMReverseItEndpoint.runtimeconfig.json
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\bin\Debug\net6.0\GowanMReverseItEndpoint.dll
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\bin\Debug\net6.0\GowanMReverseItEndpoint.pdb
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.csproj.AssemblyReference.cache
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.AssemblyInfoInputs.cache
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.AssemblyInfo.cs
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.csproj.CoreCompileInputs.cache
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\obj\Debug\net6.0\scopedcss\bundle\GowanMReverseItEndpoint.styles.css
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.csproj.CopyComplete
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.dll
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\obj\Debug\net6.0\refint\GowanMReverseItEndpoint.dll
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.pdb
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\obj\Debug\net6.0\GowanMReverseItEndpoint.genruntimeconfig.cache
+C:\Users\petal\Desktop\Lvl 1\Week 2\GowanMReverseItEndpoint\obj\Debug\net6.0\ref\GowanMReverseItEndpoint.dll
